@@ -83,7 +83,7 @@ p {
 /*Benifits*/
 
 aside {
-    margin-right: 20px;
+    margin-right: 20px; 
     padding: 20px;
     clear: both;
     float: right;
@@ -93,8 +93,8 @@ aside {
     background-color: #2589bd;
 }
 
-aside {
-    margin-bottom: 20px;
+aside div {
+    margin-bottom: 32px;
     color: #ffffff;
 }
 
@@ -110,8 +110,7 @@ aside img {
     max-width: 150px;
 }
 
-
-article div  {
+article div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -131,7 +130,7 @@ article h2 {
     font-size: 36px;
 }
 
-/*Benifits*/
+/*BenifitsEnd*/
 
 /*Footer*/
 footer {
