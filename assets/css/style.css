@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header starts*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,9 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Header Ends*/
+
+/*Nav Elements*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/*Hero Image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,14 +80,15 @@ p {
     margin-left: 20px;
 }
 
+/*Benifits*/
 aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 125%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
@@ -110,7 +116,7 @@ article div  {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #0072bb;
 }
 
 article img {
@@ -124,7 +130,9 @@ article h2 {
     font-size: 36px;
 }
 
+/*Benifits*/
 
+/*Footer*/
 footer {
     padding: 30px;
     clear: both;
@@ -135,3 +143,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/*Footer End*/
