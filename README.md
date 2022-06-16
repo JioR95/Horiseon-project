@@ -12,7 +12,7 @@ added elements in .html file .
 
 #Link to websites 
 
-https://github.com/JioR95/Horiseon-project.git
+https://jior95.github.io/Horiseon-project/
 
 
 #ScreenShot of Webpage
